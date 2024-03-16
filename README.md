@@ -1,4 +1,4 @@
-# LibGDX-VirturalJoystick
+# LibGDX-VirtualJoystick
 An on-screen joystick for mobile games made in LibGDX​
 
 This is an on-screen joystick that replicates an actual joystick on a video game controller. Good for games that could benefit from having precise movements like top-down games.
